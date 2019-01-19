@@ -7,3 +7,9 @@
 
 # .tfvars files
 *.tfvars
+
+# Valid for mac only
+.DS_Store
+
+#Put here any IDE stuff
+.idea
